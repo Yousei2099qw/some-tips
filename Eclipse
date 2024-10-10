@@ -1,0 +1,72 @@
+Eclipse 是一个流行的集成开发环境（IDE），支持 Java 等多种编程语言，提供了丰富的快捷键来提高开发效率。以下是一些 Eclipse 中常用的快捷键：
+
+项目中常用的
+  F3:进入方法里
+  CRTL+SHIFT+R  根据文件名查找文件
+  CRTL+L    输入行数并跳转
+  CRTL+H    输入内容全程序搜索
+  Ctrl + Shift + F：格式化代码
+    
+
+
+
+
+1. 代码编辑
+
+	•	Ctrl + Space：代码补全（自动提示变量、方法、类名等）。
+	•	Ctrl + Shift + O：自动导入必要的类（Organize Imports）。
+	•	Ctrl + Shift + F：格式化代码。
+	•	Ctrl + D：删除当前行。
+	•	Ctrl + /：对当前行或选中的行进行注释/取消注释（单行注释）。
+	•	Ctrl + Shift + / 和 Ctrl + Shift + \：对选中的代码块进行注释/取消注释（多行注释）。
+	•	Alt + Up/Down：移动当前行或选中的行上下移动。
+	•	Ctrl + Alt + Down：复制当前行到下一行。
+	•	Ctrl + 1：快速修复（例如添加未导入的类、修复错误等）。
+
+2. 导航和查找
+
+	•	Ctrl + Shift + R：快速打开资源（文件、非 Java 文件等）。
+	•	Ctrl + Shift + T：快速打开类型（Java 类、接口等）。
+	•	F3：跳转到声明处（方法、变量、类）。
+	•	Ctrl + O：快速大纲视图，列出当前类中的所有方法和字段，支持快速查找。
+	•	Ctrl + L：跳转到指定的行号。
+	•	Ctrl + H：打开搜索窗口（可以进行文件搜索、类搜索等）。
+	•	Ctrl + K：查找下一个与当前选中文本相同的内容。
+	•	Ctrl + E：快速切换到最近打开的编辑器。
+
+3. 调试
+
+	•	F11：启动或重新启动调试模式。
+	•	F5：进入（Step Into）方法。
+	•	F6：跳过（Step Over）方法。
+	•	F7：跳出（Step Return）方法。
+	•	F8：恢复程序执行（Run/Resume）。
+	•	Ctrl + Shift + B：在当前行设置或移除断点。
+
+4. 项目管理
+
+	•	Ctrl + F11：运行当前项目。
+	•	Alt + Shift + X, J：运行 Java 应用程序。
+	•	Alt + Shift + X, T：运行 JUnit 测试。
+
+5. 重构
+
+	•	Alt + Shift + R：重命名变量、类、方法等。
+	•	Alt + Shift + M：将选中的代码提取为方法。
+	•	Alt + Shift + L：将选中的代码提取为局部变量。
+	•	Alt + Shift + I：将选中的代码提取为字段。
+	•	Alt + Shift + V：移动类、方法或变量。
+
+6. 窗口管理
+
+	•	Ctrl + F6：切换到下一个编辑器。
+	•	Ctrl + F7：切换到下一个视图。
+	•	Ctrl + F8：切换到下一个透视图（Perspective）。
+	•	Ctrl + M：最大化/还原当前编辑器或视图。
+
+7. 其他
+
+	•	Ctrl + Shift + L：显示所有快捷键列表。
+	•	Ctrl + Shift + P：定位到匹配的括号。
+
+这些快捷键可以帮助你更高效地在 Eclipse 中编写代码、调试程序和管理项目。如果你刚开始使用 Eclipse，逐渐熟悉这些快捷键会大大提升你的开发速度。
