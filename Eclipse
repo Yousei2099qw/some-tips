@@ -8,7 +8,7 @@ Eclipse 是一个流行的集成开发环境（IDE），支持 Java 等多种编
   Ctrl + Shift + F：格式化代码
     
 
-
+Ctrl + Shift + O：Eclipse 会自动整理并删除未使用的包
 
 
 1. 代码编辑
